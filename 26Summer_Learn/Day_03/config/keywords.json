@@ -1,0 +1,13 @@
+{
+  "prompt_injection":[
+    "ignore previous instructions",
+    "system prompt",
+    "jailbreak",
+    "developer mode"
+  ],
+  "data_leak": [
+    "reveal secrets",
+    "show password",
+    "private information"
+  ]
+}
