@@ -34,4 +34,18 @@ pygame检测到退出
 用来之后指定其位置
 
 ## a.blit(b,c)
-在a的c上绘制b
+在a的c上绘制b  
+
+## pygame.Rect(a,b,c,d)  
+在屏幕(a,b)处描述宽c高d的矩形  
+并不会画出来  
+
+## pygame.draw.rect(a,b,c)  
+a:画在哪里  
+b:颜色  
+c:矩形大小  
+
+## pygame.sprite.Group()  
+创建一个对象用于装sprite  
+
+## 
